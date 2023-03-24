@@ -1,18 +1,18 @@
 # Yuankai action recognition dataset
 
-# Dataset structure
+## Dataset structure
 
-# Downloads
+## Downloads
 
-# Usage
+## Usage
 
-# Pre-processing
+## Pre-processing
 
-# Citation
+## Citation
 
-# License
+## License
 
-# Contact
+## Contact
 
 #
 
