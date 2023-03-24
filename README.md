@@ -1,1 +1,5 @@
-# junpeng2023.github.io
+# Yuankai action recognition dataset
+
+#Dataset structure
+
+#
