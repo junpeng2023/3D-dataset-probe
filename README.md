@@ -23,7 +23,7 @@ Some facts about the Dataset.
 	</tr>
 	<tr>
 	    <td >Recordings</td>
-	    <td >150 RGB-D videos(we record 3 groups(with 5 repetitions) videos for each senario)</td>
+	    <td >120 RGB-D videos(we record 3 groups(with 5 repetitions) videos for each senario)</td>
 	</tr>
     <tr>
 	    <td >Playtime</td>
